@@ -1,0 +1,18 @@
+{
+    "Datasets": {
+        "JRDB": {
+            "data_path": "/HDDs/hdd1/yhm/jrdb/train_dataset_with_activity/images/image_stitched",
+            "annotation_path": "/home/yanhaomin/project/panoramic_action/code/joint_learning_for_jrdb/data/annotation",
+            "train_json_anno_path": "/home/yanhaomin/songmiao/ref_poject/OC_SORT-master/my_json_annos/train_jrdb_10f_tj.json",
+            "test_json_anno_path": "/home/yanhaomin/songmiao/ref_poject/OC_SORT-master/my_json_annos/test_jrdb_10f_tk_tj.json",
+            "json_anno_path": "/home/yanhaomin/songmiao/project_new/PAR-utils-new/all_15f_long_track_traj(num_f&mask).json",
+            "excel_path": "/home/yanhaomin/project/panoramic_action/code/joint_learning_for_jrdb/data/annotated_excel/"
+        },
+        "PAR": {
+            "data_path": "/HDDs/sdd1/wsm/PAR/PAR_new",
+            "train_json_anno_path": "/HDDs/sdd1/wsm/data4code/for_track/train_73_clp_traj_new.json",
+            "test_json_anno_path": "/HDDs/sdd1/wsm/data4code/for_track/test_73_clp_traj_new.json",
+            "vid_id_map_path": "/home/yanhaomin/songmiao/PAR/vid_id_map.json"
+        }
+                }
+}
